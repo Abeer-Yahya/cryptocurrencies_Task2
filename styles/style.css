@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-color: #f2efe9;
+}
+
+h2 {
+  margin-top: 1.2rem;
+  color: #252627;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2.4rem;
+  margin: 2.4rem 0rem;
+}
+.container .currency {
+  border: 2px solid #904e55;
+  width: 20rem;
+  padding: 1.6rem 0rem;
+  color: #564e58;
+  border-radius: 1.6rem;
+  background-color: #bfb48f;
+  font-weight: 600;
+}
+.container .currency p {
+  margin: 1rem 0rem;
+}/*# sourceMappingURL=style.css.map */
